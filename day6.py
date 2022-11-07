@@ -1,6 +1,6 @@
-DAYS = 256
+DAYS = 256 # CHANGE TO 80 FOR PART 1
 
-if __name__ == __name__:
+if __name__ == '__main__':
     file = open("input/day6input.txt", "r").read().split(',')
     state = [int(f) for f in file]
     
