@@ -1,4 +1,4 @@
-file = open("input/day9testinput.txt", "r").read().split('\n')
+file = open("input/day9input.txt", "r").read().split('\n')
 
 lowPoints=[]
 
